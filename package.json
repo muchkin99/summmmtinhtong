@@ -1,0 +1,34 @@
+{
+  "name": "summmmtinhtong",
+  "version": "1.1.3",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muchkin99/summmmtinhtong.git"
+  },
+  "dependencies": {
+    "naruemonkaekhum-tinhtonggggg": "1.1.1",
+    "tinhtonggggg": "1.1.1",
+    "summm-tongggg": "1.1.1",
+    "iiitinh-tong": "1.1.2",
+    "muchkin99-summmm": "1.1.3",
+    "baccccc2cawnnnn": "1.0.11",
+    "bac3can-larufflepanamanian":"1.0.14",
+    "demtu0den-n-truongton12":"1.0.4",
+    "trungbinh-binhphuong-xacchuan":"1.0.12",
+    "binhhhphuonggggtbbb":"1.0.6"
+    },
+ "homepage": "https://github.com/muchkin99/summmmtinhtong",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "muchkin99",
+  "license": "MIT"
+}
